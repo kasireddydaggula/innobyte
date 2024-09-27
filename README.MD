@@ -1,9 +1,9 @@
 # Innobyte
 
 Project Title:<br />
-**Amazon Sales Report Analysis<br />
+** Amazon Sales Report Analysis ** <br />
 Problem Statement:<br />
-*Analyze and provide actionable insights from an Amazon sales report to support business decision-making.*
+* Analyze and provide actionable insights from an Amazon sales report to support business decision-making. *
 
 *Steps Involved:*<br />
 Data Collection and Understanding:
